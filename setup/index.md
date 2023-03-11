@@ -55,6 +55,12 @@ It will attempt to do the following:
 
 ### Step 3: DNS (optional)
 
+In this step you can connect your DNS provider using a token.
+
+You can always do this later in the settings.
+
+![](setup_dns.PNG)
+
 
 ### Step 4: GitHub (optional)
 
