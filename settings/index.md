@@ -4,7 +4,7 @@ title: Settings
 
 ## Settings
 
-In this section you can configure Light-Whale.
+In the **Settings** you can configure Light-Whale.
 
 Settings are divided into several tabs:
 - [General](#general-settings)
