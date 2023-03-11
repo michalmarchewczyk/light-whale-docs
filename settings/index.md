@@ -8,10 +8,10 @@ In the **Settings** you can configure Light-Whale.
 
 Settings are divided into several tabs:
 - [General](#general-settings)
-- [Git](/settings/git)
-- [DNS](/settings/dns)
-- [Health check](/settings/health-check)
-- [Logs](/settings/logs)
+- [Git](git.md)
+- [DNS](dns.md)
+- [Health check](health-check.md)
+- [Logs](logs.md)
 
 
 ### General settings
