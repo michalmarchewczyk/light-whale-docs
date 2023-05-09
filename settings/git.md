@@ -12,6 +12,7 @@ Currently, Light-Whale supports the following Git services:
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org)
+- [JetBrains Space](https://jetbrains.com/space)
 
 
 ### Adding a token

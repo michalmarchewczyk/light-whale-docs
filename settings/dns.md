@@ -10,6 +10,8 @@ Here you can add tokens for DNS providers and configure automatic DNS updates.
 
 Currently, Light-Whale supports the following DNS providers:
 - [Cloudflare](https://www.cloudflare.com)
+- [OVHcloud](https://www.ovhcloud.com)
+- [DigitalOcean](https://www.digitalocean.com)
 
 
 ### Adding a token
